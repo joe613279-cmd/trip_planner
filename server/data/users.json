@@ -1,0 +1,40 @@
+[
+  {
+    "id": "user-admin-01",
+    "name": "VoyageCraft Administrator",
+    "email": "admin@voyagecraft.com",
+    "salt": "6af1dff0a3b6c5e8888f40808acb6da1",
+    "hash": "d6cd86ca7231e118e8f5986fc80291dda2be49f56b20b08475a5b0fb110c1f50476f3b3e54a10a896731c200232aeb5a3db9380af70171dc4790146bd71226b9",
+    "role": "admin",
+    "createdAt": "2026-09-01T00:00:00.000Z",
+    "tokens": [
+      "6f16a44127775e339b58d3b85615a2ecfd7ff66263b2e5ad90eb83593af2b1f5",
+      "272f12678dcc7f49af62d53f03cf6ac694e96f9e52ce5c40f5624ff5e1074995",
+      "c61d3ab1a893559646b29d46b97c9716c0f2893cf93663f45b336d31490fc848",
+      "cde4b26bfd97d300003847536878dbd5cd1a02e3d73266fbde409b872302dd42"
+    ]
+  },
+  {
+    "id": "user-traveler-01",
+    "name": "Alex Rivera",
+    "email": "traveler@voyagecraft.com",
+    "salt": "8de66515a4ee4f06b726616ac4c36318",
+    "hash": "ad12f860566fecd6254388a1039e5d4d1ef68227d3abcf434da3dc5224aad60001bc4b980882ebc34701a09c448d003bd981b1c2c961e27ddaceda5a06d27ecd",
+    "role": "user",
+    "createdAt": "2026-09-10T00:00:00.000Z",
+    "tokens": []
+  },
+  {
+    "id": "user-1789868434147",
+    "name": "Maya Lin",
+    "email": "testuser_1789868434093@example.com",
+    "salt": "2cd98baf2b9bdf939cf49b9f0e0c6598",
+    "hash": "3178651563d1e9e4de400f35c2e3b03e62b2054271969c949ffc8886c95ba9eabc8e7967a9679280f05774efb35d2f99cc1550de35f32d04eae7c4665f99795e",
+    "role": "user",
+    "createdAt": "2026-09-20T01:40:34.147Z",
+    "tokens": [
+      "7a238208dc95c6d9ca52fbb7a44b2d284a605b5f7279b274200906b63429c38f",
+      "21355aadb68ae97a4145737e156d966f703f1a54d0d9ef9b749465dce03e166f"
+    ]
+  }
+]

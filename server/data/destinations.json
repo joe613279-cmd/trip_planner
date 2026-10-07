@@ -1,0 +1,521 @@
+[
+  {
+    "id": "dest-tokyo",
+    "name": "Tokyo",
+    "country": "Japan",
+    "region": "East Asia",
+    "flag": "🇯🇵",
+    "tagline": "The neon-lit nexus of futuristic innovation and ancient tradition",
+    "description": "Tokyo dazzles travelers with its Michelin-starred dining alleys, serene Shinto shrines, cyberpunk skyline, and impeccably punctual transit. From the fashion districts of Shibuya and Harajuku to historical Asakusa, Tokyo is an endlessly rewarding urban odyssey.",
+    "coverImage": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "climate": "Temperate",
+    "currency": "JPY",
+    "currencySymbol": "¥",
+    "timeZone": "Asia/Tokyo (GMT+9)",
+    "language": "Japanese",
+    "averageDailyCost": 120,
+    "bestMonths": ["March", "April", "October", "November"],
+    "tags": ["Culture", "Foodie", "Modern", "Shopping", "Transit"],
+    "travelStyles": ["Cultural Explorer", "Foodie Tour", "Modern Urbanite"],
+    "attractions": [
+      {
+        "name": "Senso-ji Temple",
+        "category": "Culture",
+        "lat": 35.7148,
+        "lng": 139.7967,
+        "estimatedDuration": "2h",
+        "cost": 0,
+        "description": "Tokyo's oldest and most significant Buddhist temple located in historical Asakusa."
+      },
+      {
+        "name": "Shibuya Crossing & Hachiko",
+        "category": "Sightseeing",
+        "lat": 35.6595,
+        "lng": 139.7004,
+        "estimatedDuration": "1.5h",
+        "cost": 0,
+        "description": "The world's busiest pedestrian crossing surrounded by giant video screens and energetic energy."
+      },
+      {
+        "name": "Meiji Jingu Shrine",
+        "category": "Culture",
+        "lat": 35.6764,
+        "lng": 139.6993,
+        "estimatedDuration": "2h",
+        "cost": 0,
+        "description": "Serene shrine surrounded by 170 acres of evergreen sacred forest in the heart of Shibuya."
+      },
+      {
+        "name": "TeamLab Planets Toyosu",
+        "category": "Art & Museums",
+        "lat": 35.6534,
+        "lng": 139.7915,
+        "estimatedDuration": "2.5h",
+        "cost": 32,
+        "description": "Immersive digital museum where visitors walk barefoot through water and flower projections."
+      },
+      {
+        "name": "Tsukiji Outer Market Food Crawl",
+        "category": "Dining",
+        "lat": 35.6655,
+        "lng": 139.7707,
+        "estimatedDuration": "2h",
+        "cost": 25,
+        "description": "Lively seafood market packed with fresh sashimi bowls, wagyu skewers, and tamagoyaki."
+      }
+    ],
+    "foodSpecialties": ["Tonkotsu Ramen", "Edomae Sushi", "Yakitori", "Wagyu Teppanyaki", "Matcha Parfait"],
+    "tips": [
+      "Purchase a digital Suica/Pasmo transit card for effortless subway access.",
+      "Tipping is not customary in Japan; exceptional service is already standard.",
+      "Trash cans are rare in public; carry a small bag to take waste back to your hotel."
+    ],
+    "weather": {
+      "temperature": 19,
+      "condition": "Partly Cloudy",
+      "humidity": 55,
+      "windSpeed": "12 km/h",
+      "icon": "cloud-sun",
+      "forecast": [
+        { "day": "Mon", "high": 21, "low": 13, "condition": "Sunny" },
+        { "day": "Tue", "high": 19, "low": 12, "condition": "Partly Cloudy" },
+        { "day": "Wed", "high": 17, "low": 11, "condition": "Light Rain" },
+        { "day": "Thu", "high": 20, "low": 12, "condition": "Sunny" },
+        { "day": "Fri", "high": 22, "low": 14, "condition": "Clear" }
+      ]
+    }
+  },
+  {
+    "id": "dest-paris",
+    "name": "Paris",
+    "country": "France",
+    "region": "Western Europe",
+    "flag": "🇫🇷",
+    "tagline": "The timeless city of light, romance, couture, and haute cuisine",
+    "description": "Paris captivates with grand boulevard architecture, sun-dappled café terraces along the Seine, irreplaceable masterworks in the Louvre, and golden sunsets warming the Eiffel Tower.",
+    "coverImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "climate": "Temperate",
+    "currency": "EUR",
+    "currencySymbol": "€",
+    "timeZone": "Europe/Paris (GMT+1)",
+    "language": "French",
+    "averageDailyCost": 150,
+    "bestMonths": ["April", "May", "September", "October"],
+    "tags": ["Romance", "Art & Museums", "Dining", "Architecture", "History"],
+    "travelStyles": ["Romantic Getaway", "Cultural Explorer", "Luxury & Relaxation"],
+    "attractions": [
+      {
+        "name": "Eiffel Tower & Champ de Mars",
+        "category": "Sightseeing",
+        "lat": 48.8584,
+        "lng": 2.2945,
+        "estimatedDuration": "2.5h",
+        "cost": 28,
+        "description": "The world-renowned iron lattice monument and its scenic surrounding green lawns."
+      },
+      {
+        "name": "Louvre Museum",
+        "category": "Art & Museums",
+        "lat": 48.8606,
+        "lng": 2.3376,
+        "estimatedDuration": "3.5h",
+        "cost": 22,
+        "description": "The world's largest art museum holding the Mona Lisa and the Winged Victory of Samothrace."
+      },
+      {
+        "name": "Montmartre & Sacré-Cœur",
+        "category": "Sightseeing",
+        "lat": 48.8867,
+        "lng": 2.3431,
+        "estimatedDuration": "2.5h",
+        "cost": 0,
+        "description": "Bohemian hilltop district with winding cobblestone stairs and breathtaking city panoramas."
+      },
+      {
+        "name": "Seine River Sunset Cruise",
+        "category": "Activity",
+        "lat": 48.8595,
+        "lng": 2.2974,
+        "estimatedDuration": "1.5h",
+        "cost": 18,
+        "description": "Glide past illuminated bridges, Notre-Dame Cathedral, and the Musée d'Orsay."
+      },
+      {
+        "name": "Le Marais Boulangerie & Boutique Walk",
+        "category": "Dining",
+        "lat": 48.8575,
+        "lng": 2.3622,
+        "estimatedDuration": "2h",
+        "cost": 20,
+        "description": "Historic aristocratic district famous for artisan pastries, falafel, and chic designer shops."
+      }
+    ],
+    "foodSpecialties": ["Fresh Butter Croissant", "Boeuf Bourguignon", "Duck Confit", "Escargots", "Macarons"],
+    "tips": [
+      "Always greet shopkeepers with a polite 'Bonjour' before asking questions.",
+      "Reserve museum time slots at least 2 weeks in advance during peak season.",
+      "Navigo Easy card makes metro travel seamless across zones 1-2."
+    ],
+    "weather": {
+      "temperature": 18,
+      "condition": "Sunny",
+      "humidity": 60,
+      "windSpeed": "10 km/h",
+      "icon": "sun",
+      "forecast": [
+        { "day": "Mon", "high": 20, "low": 11, "condition": "Sunny" },
+        { "day": "Tue", "high": 21, "low": 12, "condition": "Clear" },
+        { "day": "Wed", "high": 18, "low": 10, "condition": "Partly Cloudy" },
+        { "day": "Thu", "high": 19, "low": 11, "condition": "Partly Cloudy" },
+        { "day": "Fri", "high": 22, "low": 13, "condition": "Sunny" }
+      ]
+    }
+  },
+  {
+    "id": "dest-bali",
+    "name": "Bali",
+    "country": "Indonesia",
+    "region": "Southeast Asia",
+    "flag": "🇮🇩",
+    "tagline": "The mystical Island of Gods fringed with emerald terraces and azure breaks",
+    "description": "Bali enchants with cascading jungle waterfalls in Ubud, volcanic sunrises over Mount Batur, sacred clifftop sea temples in Uluwatu, and world-class beachfront surf breaks.",
+    "coverImage": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?auto=format&fit=crop&w=1200&q=80",
+    "lat": -8.4095,
+    "lng": 115.1889,
+    "climate": "Tropical",
+    "currency": "IDR",
+    "currencySymbol": "Rp",
+    "timeZone": "Asia/Makassar (GMT+8)",
+    "language": "Indonesian / Balinese",
+    "averageDailyCost": 60,
+    "bestMonths": ["May", "June", "July", "August", "September"],
+    "tags": ["Nature", "Beaches", "Wellness", "Adventure", "Budget"],
+    "travelStyles": ["Backpacker Budget", "Adventure & Nature", "Luxury & Relaxation"],
+    "attractions": [
+      {
+        "name": "Tegallalang Rice Terraces",
+        "category": "Nature",
+        "lat": -8.4326,
+        "lng": 115.2789,
+        "estimatedDuration": "2h",
+        "cost": 5,
+        "description": "Dramatic stepped green emerald terraces carved into the hillside using ancient Subak irrigation."
+      },
+      {
+        "name": "Uluwatu Clifftop Temple & Kecak Dance",
+        "category": "Culture",
+        "lat": -8.8291,
+        "lng": 115.0849,
+        "estimatedDuration": "3h",
+        "cost": 15,
+        "description": "Magnificent 70-meter limestone sea cliff temple hosting hypnotic sunset fire dance rituals."
+      },
+      {
+        "name": "Ubud Sacred Monkey Forest Sanctuary",
+        "category": "Nature",
+        "lat": -8.5188,
+        "lng": 115.2606,
+        "estimatedDuration": "2h",
+        "cost": 6,
+        "description": "Ancient moss-covered stone temples shaded by towering banyan trees and hundreds of playful macaques."
+      },
+      {
+        "name": "Mount Batur Sunrise Trek",
+        "category": "Adventure",
+        "lat": -8.2422,
+        "lng": 115.3753,
+        "estimatedDuration": "5h",
+        "cost": 35,
+        "description": "Pre-dawn hike to the caldera rim of an active volcano to watch the dawn break over Lake Batur."
+      },
+      {
+        "name": "Seminyak Beach Sunset & Seafood",
+        "category": "Dining",
+        "lat": -8.6913,
+        "lng": 115.1555,
+        "estimatedDuration": "2.5h",
+        "cost": 20,
+        "description": "Vibrant golden hour beach club vibes with grilled ocean prawns and fresh coconut water."
+      }
+    ],
+    "foodSpecialties": ["Nasi Goreng", "Babi Guling", "Sate Lilit", "Ayam Betutu", "Pitaya Smoothie Bowls"],
+    "tips": [
+      "Wear a respectful sarong when entering sacred temple complexes.",
+      "Download the Grab or Gojek apps for scooter and car rides at fair local rates.",
+      "Stay hydrated and only drink bottled or filtered water."
+    ],
+    "weather": {
+      "temperature": 29,
+      "condition": "Tropical Warm",
+      "humidity": 78,
+      "windSpeed": "14 km/h",
+      "icon": "sun",
+      "forecast": [
+        { "day": "Mon", "high": 30, "low": 24, "condition": "Sunny" },
+        { "day": "Tue", "high": 31, "low": 24, "condition": "Partly Cloudy" },
+        { "day": "Wed", "high": 29, "low": 23, "condition": "Scattered Showers" },
+        { "day": "Thu", "high": 30, "low": 24, "condition": "Sunny" },
+        { "day": "Fri", "high": 31, "low": 25, "condition": "Sunny" }
+      ]
+    }
+  },
+  {
+    "id": "dest-new-york",
+    "name": "New York City",
+    "country": "United States",
+    "region": "North America",
+    "flag": "🇺🇸",
+    "tagline": "The city that never sleeps, radiating unmatched energy and culture",
+    "description": "From Broadway theatre lights to Central Park's winding paths and world-beating skylines, New York City pulsates with cultural ambition, diverse food enclaves, and iconic architectural vistas.",
+    "coverImage": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?auto=format&fit=crop&w=1200&q=80",
+    "lat": 40.7128,
+    "lng": -74.0060,
+    "climate": "Temperate",
+    "currency": "USD",
+    "currencySymbol": "$",
+    "timeZone": "America/New_York (GMT-5)",
+    "language": "English",
+    "averageDailyCost": 180,
+    "bestMonths": ["May", "June", "September", "October", "December"],
+    "tags": ["Modern", "Culture", "Dining", "Shopping", "Nightlife"],
+    "travelStyles": ["Modern Urbanite", "Foodie Tour", "Family Friendly"],
+    "attractions": [
+      {
+        "name": "Central Park & Bethesda Terrace",
+        "category": "Nature",
+        "lat": 40.7738,
+        "lng": -73.9708,
+        "estimatedDuration": "3h",
+        "cost": 0,
+        "description": "843 acres of sculpted parkland, lakes, bridges, and peaceful walking trails amid Manhattan skyscrapers."
+      },
+      {
+        "name": "The High Line & Chelsea Market",
+        "category": "Sightseeing",
+        "lat": 40.7480,
+        "lng": -74.0048,
+        "estimatedDuration": "2h",
+        "cost": 0,
+        "description": "Elevated freight rail line transformed into a wildflower park with Hudson River views."
+      },
+      {
+        "name": "Summit One Vanderbilt Observation",
+        "category": "Sightseeing",
+        "lat": 40.7527,
+        "lng": -73.9772,
+        "estimatedDuration": "2h",
+        "cost": 42,
+        "description": "Thrilling multi-sensory mirrored observation deck towering 1,200 feet above Midtown Manhattan."
+      },
+      {
+        "name": "Broadway Musical Experience",
+        "category": "Culture",
+        "lat": 40.7590,
+        "lng": -73.9845,
+        "estimatedDuration": "3h",
+        "cost": 95,
+        "description": "World-class live theatre performance in the heart of Times Square's historic Theatre District."
+      },
+      {
+        "name": "Brooklyn Bridge Pedestrian Walk",
+        "category": "Sightseeing",
+        "lat": 40.7061,
+        "lng": -73.9969,
+        "estimatedDuration": "1.5h",
+        "cost": 0,
+        "description": "Iconic neo-Gothic stone suspension bridge connecting Lower Manhattan to scenic DUMBO waterfront."
+      }
+    ],
+    "foodSpecialties": ["NY Style Pizza Slice", "Pastrami on Rye", "Everything Bagel with Lox", "Cheesecake", "Chinatown Dumplings"],
+    "tips": [
+      "Use contactless credit card or Apple Pay at subway OMNY turnstiles; no paper tickets needed.",
+      "Walk on the right side of sidewalks and don't stop abruptly in the center of pedestrian flow.",
+      "TKTS booth at Times Square offers discounted same-day Broadway tickets."
+    ],
+    "weather": {
+      "temperature": 17,
+      "condition": "Clear Blue Sky",
+      "humidity": 48,
+      "windSpeed": "15 km/h",
+      "icon": "sun",
+      "forecast": [
+        { "day": "Mon", "high": 18, "low": 10, "condition": "Sunny" },
+        { "day": "Tue", "high": 19, "low": 11, "condition": "Sunny" },
+        { "day": "Wed", "high": 16, "low": 9, "condition": "Breezy" },
+        { "day": "Thu", "high": 17, "low": 8, "condition": "Partly Cloudy" },
+        { "day": "Fri", "high": 20, "low": 12, "condition": "Sunny" }
+      ]
+    }
+  },
+  {
+    "id": "dest-rome",
+    "name": "Rome",
+    "country": "Italy",
+    "region": "Southern Europe",
+    "flag": "🇮🇹",
+    "tagline": "The Eternal City overflowing with millennial history, marble fountains, and dolce vita",
+    "description": "Walking Rome is walking through an open-air museum where ancient gladiatorial arenas stand beside buzzing espresso bars, baroque fountains, and golden piazzas.",
+    "coverImage": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=1200&q=80",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "climate": "Mediterranean",
+    "currency": "EUR",
+    "currencySymbol": "€",
+    "timeZone": "Europe/Rome (GMT+1)",
+    "language": "Italian",
+    "averageDailyCost": 130,
+    "bestMonths": ["April", "May", "September", "October"],
+    "tags": ["History", "Culture", "Foodie", "Architecture"],
+    "travelStyles": ["Cultural Explorer", "Foodie Tour", "Romantic Getaway"],
+    "attractions": [
+      {
+        "name": "The Colosseum & Roman Forum",
+        "category": "History",
+        "lat": 41.8902,
+        "lng": 12.4922,
+        "estimatedDuration": "3h",
+        "cost": 18,
+        "description": "The largest ancient amphitheatre ever built and the monumental heart of the Roman Empire."
+      },
+      {
+        "name": "Trevi Fountain Coin Toss",
+        "category": "Sightseeing",
+        "lat": 41.9009,
+        "lng": 12.4833,
+        "estimatedDuration": "1h",
+        "cost": 0,
+        "description": "Dramatic Baroque masterpiece where legend says tossing a coin ensures your return to Rome."
+      },
+      {
+        "name": "Pantheon & Piazza della Rotonda",
+        "category": "History",
+        "lat": 41.8986,
+        "lng": 12.4769,
+        "estimatedDuration": "1.5h",
+        "cost": 5,
+        "description": "Magnificently preserved ancient Roman temple crowned with the world's largest unreinforced concrete dome."
+      },
+      {
+        "name": "Vatican Museums & Sistine Chapel",
+        "category": "Art & Museums",
+        "lat": 41.9067,
+        "lng": 12.4536,
+        "estimatedDuration": "3.5h",
+        "cost": 25,
+        "description": "Peerless papal art collections culminating in Michelangelo's breathtaking painted ceiling."
+      },
+      {
+        "name": "Trastevere Evening Dining Alley Walk",
+        "category": "Dining",
+        "lat": 41.8894,
+        "lng": 12.4704,
+        "estimatedDuration": "2.5h",
+        "cost": 28,
+        "description": "Charming ivy-draped alleys packed with traditional osterias serving authentic Roman pastas."
+      }
+    ],
+    "foodSpecialties": ["Cacio e Pepe", "Carbonara", "Supplì", "Artisanal Gelato", "Pizza al Taglio"],
+    "tips": [
+      "Drink freely from Rome's 'nasoni' public water fountains; the water is ice cold and pure.",
+      "Cover shoulders and knees when visiting churches including St. Peter's Basilica.",
+      "Order 'un caffè' at the bar counter to enjoy espresso the true Italian way."
+    ],
+    "weather": {
+      "temperature": 22,
+      "condition": "Warm & Sunny",
+      "humidity": 52,
+      "windSpeed": "8 km/h",
+      "icon": "sun",
+      "forecast": [
+        { "day": "Mon", "high": 23, "low": 13, "condition": "Sunny" },
+        { "day": "Tue", "high": 24, "low": 14, "condition": "Sunny" },
+        { "day": "Wed", "high": 21, "low": 12, "condition": "Partly Cloudy" },
+        { "day": "Thu", "high": 22, "low": 13, "condition": "Sunny" },
+        { "day": "Fri", "high": 25, "low": 15, "condition": "Clear" }
+      ]
+    }
+  },
+  {
+    "id": "dest-swiss-alps",
+    "name": "Swiss Alps (Interlaken)",
+    "country": "Switzerland",
+    "region": "Central Europe",
+    "flag": "🇨🇭",
+    "tagline": "Pure alpine majesty of glacier-carved valleys and snow-crowned summits",
+    "description": "Nestled between turquoise lakes Thun and Brienz and guarded by the legendary Eiger, Mönch, and Jungfrau peaks, the Swiss Alps offer pristine scenery, scenic cogwheel trains, and year-round mountain adventures.",
+    "coverImage": "https://images.unsplash.com/photo-1530122037265-a5f1f91d3b99?auto=format&fit=crop&w=1200&q=80",
+    "lat": 46.6863,
+    "lng": 7.8632,
+    "climate": "Alpine",
+    "currency": "CHF",
+    "currencySymbol": "CHF",
+    "timeZone": "Europe/Zurich (GMT+1)",
+    "language": "German / French",
+    "averageDailyCost": 190,
+    "bestMonths": ["January", "February", "July", "August", "September"],
+    "tags": ["Nature", "Adventure", "Hiking", "Scenic"],
+    "travelStyles": ["Adventure & Nature", "Luxury & Relaxation"],
+    "attractions": [
+      {
+        "name": "Jungfraujoch - Top of Europe",
+        "category": "Sightseeing",
+        "lat": 46.5475,
+        "lng": 7.9822,
+        "estimatedDuration": "4h",
+        "cost": 110,
+        "description": "Europe's highest altitude railway station at 3,454m with sweeping views over the Aletsch Glacier."
+      },
+      {
+        "name": "Lauterbrunnen Valley of 72 Waterfalls",
+        "category": "Nature",
+        "lat": 46.5935,
+        "lng": 7.9091,
+        "estimatedDuration": "3h",
+        "cost": 0,
+        "description": "Stunning glacial trough valley said to have inspired Tolkien's Rivendell, framed by Staubbach Falls."
+      },
+      {
+        "name": "First Cliff Walk by Tissot",
+        "category": "Adventure",
+        "lat": 46.6601,
+        "lng": 8.0531,
+        "estimatedDuration": "2h",
+        "cost": 30,
+        "description": "Suspension walkway clinging to the sheer rock face in Grindelwald with vertigo-inducing valley views."
+      },
+      {
+        "name": "Lake Brienz Turquoise Cruise",
+        "category": "Activity",
+        "lat": 46.7118,
+        "lng": 7.9734,
+        "estimatedDuration": "2h",
+        "cost": 25,
+        "description": "Leisurely steamboat voyage across crystalline turquoise waters flanked by mountain peaks."
+      }
+    ],
+    "foodSpecialties": ["Swiss Cheese Fondue", "Rösti with Fried Egg", "Raclette", "Swiss Milk Chocolate", "Zürcher Geschnetzeltes"],
+    "tips": [
+      "Invest in a Swiss Travel Pass or Bernese Oberland Pass if planning multiple mountain excursions.",
+      "Alpine weather changes rapidly; dress in breathable moisture-wicking layers.",
+      "Tap water in Switzerland is among the cleanest mountain springs in the world."
+    ],
+    "weather": {
+      "temperature": 12,
+      "condition": "Breezy Alpine",
+      "humidity": 65,
+      "windSpeed": "18 km/h",
+      "icon": "cloud-sun",
+      "forecast": [
+        { "day": "Mon", "high": 14, "low": 5, "condition": "Sunny" },
+        { "day": "Tue", "high": 13, "low": 4, "condition": "Partly Cloudy" },
+        { "day": "Wed", "high": 10, "low": 2, "condition": "Light Rain / Snow Highs" },
+        { "day": "Thu", "high": 12, "low": 3, "condition": "Sunny" },
+        { "day": "Fri", "high": 15, "low": 6, "condition": "Clear" }
+      ]
+    }
+  }
+]

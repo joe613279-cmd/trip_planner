@@ -1,0 +1,52 @@
+{
+  "baseEssentials": [
+    { "category": "Documents", "item": "Passport & Photo IDs", "essential": true },
+    { "category": "Documents", "item": "Boarding Passes & Hotel Confirmations", "essential": true },
+    { "category": "Documents", "item": "Travel Insurance Policy Card", "essential": true },
+    { "category": "Electronics", "item": "Smartphone & Charging Cable", "essential": true },
+    { "category": "Electronics", "item": "Universal Travel Power Adapter", "essential": true },
+    { "category": "Electronics", "item": "10,000mAh Power Bank", "essential": true },
+    { "category": "Toiletries", "item": "Toothbrush, Paste & Floss", "essential": true },
+    { "category": "Toiletries", "item": "Mini Shampoo & Shower Gel", "essential": false },
+    { "category": "Toiletries", "item": "Prescription Medication & Basic First Aid", "essential": true },
+    { "category": "Essentials", "item": "Credit Cards with No Foreign FX Fees", "essential": true },
+    { "category": "Essentials", "item": "Reusable Water Bottle", "essential": false }
+  ],
+  "climateSpecific": {
+    "Tropical": [
+      { "category": "Clothing", "item": "Breathable Linen Shirts / Tops", "essential": true },
+      { "category": "Clothing", "item": "Swimwear / Boardshorts (2 pairs)", "essential": true },
+      { "category": "Clothing", "item": "Comfortable Walking Sandals", "essential": true },
+      { "category": "Clothing", "item": "Sun Hat / Visor", "essential": false },
+      { "category": "Toiletries", "item": "Reef-Safe SPF 50+ Sunscreen", "essential": true },
+      { "category": "Toiletries", "item": "DEET or Tropical Mosquito Repellent", "essential": true },
+      { "category": "Essentials", "item": "Quick-dry Microfiber Towel", "essential": false },
+      { "category": "Electronics", "item": "Waterproof Phone Pouch", "essential": false }
+    ],
+    "Alpine": [
+      { "category": "Clothing", "item": "Thermal Base Layer (Top & Bottom)", "essential": true },
+      { "category": "Clothing", "item": "Fleece Mid-Layer Jacket", "essential": true },
+      { "category": "Clothing", "item": "Wind & Waterproof Outer Shell", "essential": true },
+      { "category": "Clothing", "item": "Insulated Wool Beanie & Touchscreen Gloves", "essential": true },
+      { "category": "Clothing", "item": "Sturdy Waterproof Hiking Boots", "essential": true },
+      { "category": "Clothing", "item": "Merino Wool Trekking Socks", "essential": true },
+      { "category": "Toiletries", "item": "Heavy-Duty Lip Balm & Moisturizer", "essential": true },
+      { "category": "Essentials", "item": "Polarized Sunglasses (Snow glare protection)", "essential": true }
+    ],
+    "Temperate": [
+      { "category": "Clothing", "item": "Versatile Layering Sweaters / Cardigans", "essential": true },
+      { "category": "Clothing", "item": "Water-Resistant Light Jacket or Trench", "essential": true },
+      { "category": "Clothing", "item": "Comfortable All-Day Walking Sneakers", "essential": true },
+      { "category": "Clothing", "item": "Casual Chinos / Dark Denim", "essential": true },
+      { "category": "Essentials", "item": "Compact Windproof Umbrella", "essential": true }
+    ],
+    "Mediterranean": [
+      { "category": "Clothing", "item": "Breathable Cotton Button-Downs / Dresses", "essential": true },
+      { "category": "Clothing", "item": "Lightweight Linen Trousers / Shorts", "essential": true },
+      { "category": "Clothing", "item": "Comfortable Leather Espadrilles / Walking Shoes", "essential": true },
+      { "category": "Clothing", "item": "Modest Scarf / Wrap (for visiting holy sites)", "essential": true },
+      { "category": "Toiletries", "item": "High UV Sunscreen & After-Sun Gel", "essential": true },
+      { "category": "Essentials", "item": "Designer Sunglasses & Canvas Tote", "essential": false }
+    ]
+  }
+}

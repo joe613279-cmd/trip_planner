@@ -1,0 +1,760 @@
+[
+  {
+    "id": "trip-1789868820056",
+    "userId": "user-admin-01",
+    "createdBy": "VoyageCraft Administrator",
+    "title": "india Trip",
+    "destination": "india",
+    "country": "",
+    "flag": "✈️",
+    "startDate": "2026-10-04",
+    "endDate": "2026-10-08",
+    "coverImage": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=1200&q=80",
+    "travelStyle": "Cultural Explorer",
+    "status": "Upcoming",
+    "budget": 2000,
+    "currency": "INR",
+    "notes": "",
+    "days": [
+      {
+        "dayNumber": 1,
+        "date": "2026-10-04",
+        "title": "Arrival & Signature Highlights",
+        "activities": [
+          {
+            "id": "gen-act-0-1",
+            "time": "09:30",
+            "title": "india: Historic District Heritage Walk",
+            "category": "Culture",
+            "location": "india Central District",
+            "lat": 48.84688965713599,
+            "lng": 2.3661399896064887,
+            "cost": 0,
+            "notes": "Discover centuries of architectural heritage and local culture.",
+            "completed": false
+          },
+          {
+            "id": "gen-act-0-2",
+            "time": "12:45",
+            "title": "Historic Street Food Market Tasting",
+            "category": "Dining",
+            "location": "india Gourmet Quarter",
+            "lat": 48.850533704877535,
+            "lng": 2.3451784460835188,
+            "cost": 20,
+            "notes": "Sample regional signature dishes, skewers, and sweet treats.",
+            "completed": false
+          },
+          {
+            "id": "gen-act-0-3",
+            "time": "16:00",
+            "title": "Botanical Gardens & Tropical Conservatory",
+            "category": "Nature",
+            "location": "india Panorama Point",
+            "lat": 48.84634712481054,
+            "lng": 2.364457342167318,
+            "cost": 10,
+            "notes": "Serene walking paths surrounded by exotic flora and lily ponds.",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "dayNumber": 2,
+        "date": "2026-10-05",
+        "title": "Deep Dive into Culture & Architecture",
+        "activities": [
+          {
+            "id": "gen-act-1-1",
+            "time": "11:00",
+            "title": "india: National Heritage Museum & Gallery",
+            "category": "Culture",
+            "location": "india Central District",
+            "lat": 48.86473953641256,
+            "lng": 2.3602458786691916,
+            "cost": 18,
+            "notes": "Explore landmark artifacts, sculptures, and royal collections.",
+            "completed": false
+          },
+          {
+            "id": "gen-act-1-2",
+            "time": "12:45",
+            "title": "Chef's Table Regional Bistro Dinner",
+            "category": "Dining",
+            "location": "india Gourmet Quarter",
+            "lat": 48.862429181048526,
+            "lng": 2.3532332904082605,
+            "cost": 45,
+            "notes": "Indulge in seasonal culinary specialties and wine pairings.",
+            "completed": false
+          },
+          {
+            "id": "gen-act-1-3",
+            "time": "16:00",
+            "title": "Iconic Central Monument & Plaza",
+            "category": "Sightseeing",
+            "location": "india Panorama Point",
+            "lat": 48.86928394018666,
+            "lng": 2.3323109301533567,
+            "cost": 0,
+            "notes": "Prime photo opportunity at the city's most recognized landmark.",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "dayNumber": 3,
+        "date": "2026-10-06",
+        "title": "Culinary Gems & Scenic Landscapes",
+        "activities": [
+          {
+            "id": "gen-act-2-1",
+            "time": "14:30",
+            "title": "india: Sacred Temple / Cathedral Visit",
+            "category": "Culture",
+            "location": "india Central District",
+            "lat": 48.86874670259579,
+            "lng": 2.3555844121462077,
+            "cost": 8,
+            "notes": "Marvel at sacred stained glass, gilded altars, and quiet courtyards.",
+            "completed": false
+          },
+          {
+            "id": "gen-act-2-2",
+            "time": "12:45",
+            "title": "Artisan Bakery & Morning Roast Coffee",
+            "category": "Dining",
+            "location": "india Gourmet Quarter",
+            "lat": 48.85502899970097,
+            "lng": 2.3436331024589276,
+            "cost": 12,
+            "notes": "Warm fresh pastries and locally roasted espresso.",
+            "completed": false
+          },
+          {
+            "id": "gen-act-2-3",
+            "time": "16:00",
+            "title": "Sunset Beach / Lakefront Relaxation",
+            "category": "Nature",
+            "location": "india Panorama Point",
+            "lat": 48.84004835012468,
+            "lng": 2.354564490264449,
+            "cost": 0,
+            "notes": "Unwind by the shoreline as twilight settles over the horizon.",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "dayNumber": 4,
+        "date": "2026-10-07",
+        "title": "Artistic Havens & Local Neighborhoods",
+        "activities": [
+          {
+            "id": "gen-act-3-1",
+            "time": "09:30",
+            "title": "india: Historic District Heritage Walk",
+            "category": "Culture",
+            "location": "india Central District",
+            "lat": 48.864869646752304,
+            "lng": 2.3468524231829053,
+            "cost": 0,
+            "notes": "Discover centuries of architectural heritage and local culture.",
+            "completed": false
+          },
+          {
+            "id": "gen-act-3-2",
+            "time": "12:45",
+            "title": "Historic Street Food Market Tasting",
+            "category": "Dining",
+            "location": "india Gourmet Quarter",
+            "lat": 48.850651076841935,
+            "lng": 2.351074927606781,
+            "cost": 20,
+            "notes": "Sample regional signature dishes, skewers, and sweet treats.",
+            "completed": false
+          },
+          {
+            "id": "gen-act-3-3",
+            "time": "16:00",
+            "title": "Panoramic City Viewpoint & Skydeck",
+            "category": "Sightseeing",
+            "location": "india Panorama Point",
+            "lat": 48.85453919933847,
+            "lng": 2.3384895951299955,
+            "cost": 22,
+            "notes": "Sweeping 360-degree views of the entire metropolis and skyline.",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "dayNumber": 5,
+        "date": "2026-10-08",
+        "title": "Vibrant Markets & Sunset Vistas",
+        "activities": [
+          {
+            "id": "gen-act-4-1",
+            "time": "11:00",
+            "title": "india: National Heritage Museum & Gallery",
+            "category": "Culture",
+            "location": "india Central District",
+            "lat": 48.847438272994694,
+            "lng": 2.3489069719982134,
+            "cost": 18,
+            "notes": "Explore landmark artifacts, sculptures, and royal collections.",
+            "completed": false
+          },
+          {
+            "id": "gen-act-4-2",
+            "time": "12:45",
+            "title": "Chef's Table Regional Bistro Dinner",
+            "category": "Dining",
+            "location": "india Gourmet Quarter",
+            "lat": 48.84675595063657,
+            "lng": 2.355794286294271,
+            "cost": 45,
+            "notes": "Indulge in seasonal culinary specialties and wine pairings.",
+            "completed": false
+          },
+          {
+            "id": "gen-act-4-3",
+            "time": "16:00",
+            "title": "Scenic Coastal / Mountain Trail Hike",
+            "category": "Nature",
+            "location": "india Panorama Point",
+            "lat": 48.872510421725075,
+            "lng": 2.3502043922999416,
+            "cost": 0,
+            "notes": "Brisk outdoor trek offering panoramic valley and ocean vistas.",
+            "completed": false
+          }
+        ]
+      }
+    ],
+    "expenses": [],
+    "packingList": [
+      {
+        "id": "smart-pack-base-0",
+        "category": "Documents",
+        "item": "Passport & Photo IDs",
+        "packed": false,
+        "essential": true
+      },
+      {
+        "id": "smart-pack-base-1",
+        "category": "Documents",
+        "item": "Boarding Passes & Hotel Confirmations",
+        "packed": false,
+        "essential": true
+      },
+      {
+        "id": "smart-pack-base-2",
+        "category": "Documents",
+        "item": "Travel Insurance Policy Card",
+        "packed": false,
+        "essential": true
+      },
+      {
+        "id": "smart-pack-base-3",
+        "category": "Electronics",
+        "item": "Smartphone & Charging Cable",
+        "packed": false,
+        "essential": true
+      },
+      {
+        "id": "smart-pack-base-4",
+        "category": "Electronics",
+        "item": "Universal Travel Power Adapter",
+        "packed": false,
+        "essential": true
+      },
+      {
+        "id": "smart-pack-base-5",
+        "category": "Electronics",
+        "item": "10,000mAh Power Bank",
+        "packed": false,
+        "essential": true
+      },
+      {
+        "id": "smart-pack-base-6",
+        "category": "Toiletries",
+        "item": "Toothbrush, Paste & Floss",
+        "packed": false,
+        "essential": true
+      },
+      {
+        "id": "smart-pack-base-7",
+        "category": "Toiletries",
+        "item": "Mini Shampoo & Shower Gel",
+        "packed": false,
+        "essential": false
+      },
+      {
+        "id": "smart-pack-base-8",
+        "category": "Toiletries",
+        "item": "Prescription Medication & Basic First Aid",
+        "packed": false,
+        "essential": true
+      },
+      {
+        "id": "smart-pack-base-9",
+        "category": "Essentials",
+        "item": "Credit Cards with No Foreign FX Fees",
+        "packed": false,
+        "essential": true
+      },
+      {
+        "id": "smart-pack-base-10",
+        "category": "Essentials",
+        "item": "Reusable Water Bottle",
+        "packed": false,
+        "essential": false
+      },
+      {
+        "id": "smart-pack-clim-0",
+        "category": "Clothing",
+        "item": "Versatile Layering Sweaters / Cardigans",
+        "packed": false,
+        "essential": true
+      },
+      {
+        "id": "smart-pack-clim-1",
+        "category": "Clothing",
+        "item": "Water-Resistant Light Jacket or Trench",
+        "packed": false,
+        "essential": true
+      },
+      {
+        "id": "smart-pack-clim-2",
+        "category": "Clothing",
+        "item": "Comfortable All-Day Walking Sneakers",
+        "packed": false,
+        "essential": true
+      },
+      {
+        "id": "smart-pack-clim-3",
+        "category": "Clothing",
+        "item": "Casual Chinos / Dark Denim",
+        "packed": false,
+        "essential": true
+      },
+      {
+        "id": "smart-pack-clim-4",
+        "category": "Essentials",
+        "item": "Compact Windproof Umbrella",
+        "packed": false,
+        "essential": true
+      }
+    ]
+  },
+  {
+    "id": "trip-tokyo-2026",
+    "title": "Tokyo Neon & Heritage Odyssey",
+    "destination": "Tokyo",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "startDate": "2026-10-12",
+    "endDate": "2026-10-16",
+    "coverImage": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?auto=format&fit=crop&w=1200&q=80",
+    "travelStyle": "Cultural Explorer",
+    "status": "Upcoming",
+    "budget": 2400,
+    "currency": "USD",
+    "notes": "Remember to pick up digital Suica card at Haneda Airport. Book Shibuya Sky sunset slot.",
+    "days": [
+      {
+        "dayNumber": 1,
+        "date": "2026-10-12",
+        "title": "Historical Roots & Ancient Temples",
+        "activities": [
+          {
+            "id": "act-101",
+            "time": "09:30",
+            "title": "Senso-ji Temple & Nakamise-dori",
+            "category": "Culture",
+            "location": "Asakusa, Tokyo",
+            "lat": 35.7148,
+            "lng": 139.7967,
+            "cost": 0,
+            "notes": "Sample fresh ningyo-yaki bean paste cakes along the approach.",
+            "completed": true
+          },
+          {
+            "id": "act-102",
+            "time": "12:45",
+            "title": "Traditional Tendon Tempura Lunch",
+            "category": "Dining",
+            "location": "Daikokuya Tempura, Asakusa",
+            "lat": 35.7126,
+            "lng": 139.7951,
+            "cost": 22,
+            "notes": "Classic Edo style dark sesame oil tempura over hot rice.",
+            "completed": false
+          },
+          {
+            "id": "act-103",
+            "time": "15:00",
+            "title": "Sumida River Cruise to Hamarikyu Gardens",
+            "category": "Sightseeing",
+            "location": "Hamarikyu Gardens",
+            "lat": 35.6597,
+            "lng": 139.7634,
+            "cost": 16,
+            "notes": "Enjoy matcha in the floating wooden teahouse over the tidal pond.",
+            "completed": false
+          },
+          {
+            "id": "act-104",
+            "time": "19:00",
+            "title": "Omoide Yokocho Yakitori Alleys",
+            "category": "Dining",
+            "location": "Shinjuku Memory Lane",
+            "lat": 35.6932,
+            "lng": 139.6998,
+            "cost": 35,
+            "notes": "Intimate smoky lantern-lit stalls serving charcoal skewers.",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "dayNumber": 2,
+        "date": "2026-10-13",
+        "title": "Cyberpunk Skylines & Modern Digital Art",
+        "activities": [
+          {
+            "id": "act-201",
+            "time": "10:00",
+            "title": "teamLab Planets Immersive Digital Museum",
+            "category": "Art & Museums",
+            "location": "Toyosu, Tokyo",
+            "lat": 35.6534,
+            "lng": 139.7915,
+            "cost": 34,
+            "notes": "Wear shorts or loose pants that can be rolled up past knees for water exhibit.",
+            "completed": false
+          },
+          {
+            "id": "act-202",
+            "time": "13:30",
+            "title": "Toyosu Market Fresh Sashimi Bowls",
+            "category": "Dining",
+            "location": "Toyosu Fish Market",
+            "lat": 35.6457,
+            "lng": 139.7853,
+            "cost": 30,
+            "notes": "Incredible fresh bluefin tuna and uni.",
+            "completed": false
+          },
+          {
+            "id": "act-203",
+            "time": "16:30",
+            "title": "Shibuya Sky 360° Open Air Rooftop",
+            "category": "Sightseeing",
+            "location": "Shibuya Scramble Square",
+            "lat": 35.658,
+            "lng": 139.7016,
+            "cost": 20,
+            "notes": "Arrive 30 mins before sunset for breathtaking Fuji silhouette.",
+            "completed": false
+          },
+          {
+            "id": "act-204",
+            "time": "18:45",
+            "title": "Shibuya Crossing & Hachiko Statue",
+            "category": "Sightseeing",
+            "location": "Shibuya Station Crossing",
+            "lat": 35.6595,
+            "lng": 139.7004,
+            "cost": 0,
+            "notes": "Take time-lapse video from the 2nd floor crossing cafe.",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "dayNumber": 3,
+        "date": "2026-10-14",
+        "title": "Serene Shrines & Youth Fashion Hubs",
+        "activities": [
+          {
+            "id": "act-301",
+            "time": "09:00",
+            "title": "Meiji Jingu Forest Walk & Torii Gate",
+            "category": "Culture",
+            "location": "Yoyogi Kamizonocho",
+            "lat": 35.6764,
+            "lng": 139.6993,
+            "cost": 0,
+            "notes": "Peaceful early morning stroll through pristine forest canopy.",
+            "completed": false
+          },
+          {
+            "id": "act-302",
+            "time": "11:30",
+            "title": "Takeshita Street Harajuku Street Fashion",
+            "category": "Shopping",
+            "location": "Harajuku, Shibuya",
+            "lat": 35.6702,
+            "lng": 139.7027,
+            "cost": 15,
+            "notes": "Browse vintage apparel stores and try crispy Harajuku crepes.",
+            "completed": false
+          },
+          {
+            "id": "act-303",
+            "time": "14:30",
+            "title": "Nezu Museum & Japanese Strolling Garden",
+            "category": "Art & Museums",
+            "location": "Minami-Aoyama, Minato",
+            "lat": 35.6628,
+            "lng": 139.7186,
+            "cost": 12,
+            "notes": "Pre-modern Japanese and East Asian craft masterpieces.",
+            "completed": false
+          }
+        ]
+      }
+    ],
+    "expenses": [
+      {
+        "id": "exp-1",
+        "title": "Tokyo Hotel Shinjuku Granbell (4 Nights)",
+        "category": "Accommodation",
+        "amount": 760,
+        "currency": "USD",
+        "date": "2026-10-12",
+        "paidBy": "Credit Card"
+      },
+      {
+        "id": "exp-2",
+        "title": "Narita Express Roundtrip Ticket",
+        "category": "Transportation",
+        "amount": 65,
+        "currency": "USD",
+        "date": "2026-10-12",
+        "paidBy": "Suica"
+      },
+      {
+        "id": "exp-3",
+        "title": "teamLab Planets Advance Tickets (x2)",
+        "category": "Sightseeing",
+        "amount": 68,
+        "currency": "USD",
+        "date": "2026-10-13",
+        "paidBy": "Credit Card"
+      },
+      {
+        "id": "exp-4",
+        "title": "Asakusa Street Food & Teahouse",
+        "category": "Food & Dining",
+        "amount": 38,
+        "currency": "USD",
+        "date": "2026-10-12",
+        "paidBy": "Cash"
+      },
+      {
+        "id": "exp-5",
+        "title": "Shibuya Sky Sunset Entry",
+        "category": "Sightseeing",
+        "amount": 40,
+        "currency": "USD",
+        "date": "2026-10-13",
+        "paidBy": "Credit Card"
+      }
+    ],
+    "packingList": [
+      {
+        "id": "pack-1",
+        "category": "Documents",
+        "item": "Passport & Japan Visit Web QR",
+        "packed": true,
+        "essential": true
+      },
+      {
+        "id": "pack-2",
+        "category": "Electronics",
+        "item": "Universal Type A plug adapter",
+        "packed": true,
+        "essential": true
+      },
+      {
+        "id": "pack-3",
+        "category": "Electronics",
+        "item": "Anker 10,000mAh Power Bank",
+        "packed": true,
+        "essential": true
+      },
+      {
+        "id": "pack-4",
+        "category": "Clothing",
+        "item": "Slip-on walking sneakers (temple visits)",
+        "packed": true,
+        "essential": true
+      },
+      {
+        "id": "pack-5",
+        "category": "Clothing",
+        "item": "Lightweight autumn trench coat",
+        "packed": false,
+        "essential": true
+      },
+      {
+        "id": "pack-6",
+        "category": "Toiletries",
+        "item": "Moisturizing face sunscreen",
+        "packed": false,
+        "essential": false
+      },
+      {
+        "id": "pack-7",
+        "category": "Essentials",
+        "item": "Small coin purse for 100/500 yen coins",
+        "packed": false,
+        "essential": true
+      }
+    ]
+  },
+  {
+    "id": "trip-paris-2026",
+    "title": "Autumn Splendor in Paris",
+    "destination": "Paris",
+    "country": "France",
+    "flag": "🇫🇷",
+    "startDate": "2026-11-04",
+    "endDate": "2026-11-08",
+    "coverImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1200&q=80",
+    "travelStyle": "Romantic Getaway",
+    "status": "Upcoming",
+    "budget": 2800,
+    "currency": "EUR",
+    "notes": "Louvre tickets pre-booked for 10am on Thursday. Dinner reservation at Le Coupe-Chou.",
+    "days": [
+      {
+        "dayNumber": 1,
+        "date": "2026-11-04",
+        "title": "Welcome to Saint-Germain & The Seine",
+        "activities": [
+          {
+            "id": "act-p101",
+            "time": "14:00",
+            "title": "Check-in at Boutique Hotel Saint-Germain",
+            "category": "Accommodation",
+            "location": "6th Arrondissement",
+            "lat": 48.8539,
+            "lng": 2.3338,
+            "cost": 0,
+            "notes": "Drop luggage and freshen up.",
+            "completed": false
+          },
+          {
+            "id": "act-p102",
+            "time": "16:30",
+            "title": "Café de Flore Afternoon Espresso",
+            "category": "Dining",
+            "location": "Boulevard Saint-Germain",
+            "lat": 48.8542,
+            "lng": 2.3328,
+            "cost": 18,
+            "notes": "Classic terrace people-watching in Sartre's favorite haunt.",
+            "completed": false
+          },
+          {
+            "id": "act-p103",
+            "time": "19:00",
+            "title": "Sunset Cruise on the Seine River",
+            "category": "Sightseeing",
+            "location": "Pont de l'Alma Dock",
+            "lat": 48.8643,
+            "lng": 2.3021,
+            "cost": 36,
+            "notes": "Watch the Eiffel Tower sparkle on the hour.",
+            "completed": false
+          }
+        ]
+      },
+      {
+        "dayNumber": 2,
+        "date": "2026-11-05",
+        "title": "Artistic Masterpieces & Historic Tuileries",
+        "activities": [
+          {
+            "id": "act-p201",
+            "time": "09:30",
+            "title": "Musée du Louvre Guided Masterworks",
+            "category": "Art & Museums",
+            "location": "Pyramide du Louvre",
+            "lat": 48.8606,
+            "lng": 2.3376,
+            "cost": 45,
+            "notes": "Focus on Richelieu and Denon wings.",
+            "completed": false
+          },
+          {
+            "id": "act-p202",
+            "time": "13:30",
+            "title": "Jardin des Tuileries Stroll & Angelina Hot Chocolate",
+            "category": "Dining",
+            "location": "Rue de Rivoli",
+            "lat": 48.865,
+            "lng": 2.3289,
+            "cost": 26,
+            "notes": "Decadent African hot chocolate and Mont-Blanc pastry.",
+            "completed": false
+          }
+        ]
+      }
+    ],
+    "expenses": [
+      {
+        "id": "exp-p1",
+        "title": "Hotel Saint-Germain (3 nights)",
+        "category": "Accommodation",
+        "amount": 920,
+        "currency": "EUR",
+        "date": "2026-11-04",
+        "paidBy": "Credit Card"
+      },
+      {
+        "id": "exp-p2",
+        "title": "Louvre Museum Tickets",
+        "category": "Sightseeing",
+        "amount": 44,
+        "currency": "EUR",
+        "date": "2026-11-05",
+        "paidBy": "Credit Card"
+      }
+    ],
+    "packingList": [
+      {
+        "id": "pack-p1",
+        "category": "Documents",
+        "item": "Passport & EU Health Insurance",
+        "packed": true,
+        "essential": true
+      },
+      {
+        "id": "pack-p2",
+        "category": "Clothing",
+        "item": "Tailored trench coat",
+        "packed": true,
+        "essential": true
+      },
+      {
+        "id": "pack-p3",
+        "category": "Clothing",
+        "item": "Comfortable leather walking boots",
+        "packed": false,
+        "essential": true
+      },
+      {
+        "id": "pack-p4",
+        "category": "Essentials",
+        "item": "Compact windproof umbrella",
+        "packed": true,
+        "essential": true
+      }
+    ]
+  }
+]
